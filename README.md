@@ -1,1 +1,1 @@
-This project is my implementation of TOP's Recipes Project (git@github.com:ChrisEsc/odin-recipes.git) as a refresher to all the basics of HTML.
+This project is my implementation of TOP's Recipes Project (https://www.theodinproject.com/lessons/foundations-recipes) as a refresher to all the basics of HTML.
